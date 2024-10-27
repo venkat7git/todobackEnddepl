@@ -1,0 +1,25 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "58311114-0192-48e9-8532-5ff0b8846553",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1729839140161"
+        }
+      },
+      "favorite": {
+        "name": "cultureLinkr",
+        "color": "color1"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
